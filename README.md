@@ -1,6 +1,8 @@
 # The incredible Lichtenberg
 The Incredible Machine neu aufgelegt mit den Daten der Instrumente der Experimentalphysik 
 
+![Georg_Christoph_Lichtenberg mit Sonnenbrille](https://raw.githubusercontent.com/joergreichert/the_incredible_lichtenberg/main/static/images/Georg_Christoph_Lichtenberg_Big_glasses.jpg)
+
 Ein Beitrag zum [Coding da Vinci](https://codingdavinci.de/) [Niedersachen 2020](https://codingdavinci.de/de/events/niedersachsen-2020)
 
 ## Idee: 
